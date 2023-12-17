@@ -26,11 +26,11 @@ Upper Error Bound: The upper bound of the error range associated with the sea le
 
 → Scatter plot
 
-<img src="visualizations/plot1.png">
+<img src="visualizations/plot2.png">
 
 → Linear regression lines to predict sea level in 2050
 
-<img src="visualizations/plot2.png">
+<img src="visualizations/plot1.png">
 
 ## Data Source :
 Global Average Absolute Sea Level Change, 1880-2013 from the US Environmental Protection Agency using data from CSIRO, 2015.
